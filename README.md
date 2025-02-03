@@ -4,7 +4,7 @@
 
 <p align="left"> 
   ✨ Freelancer – Crafting solutions that make a difference.<br> 
-  📚 MERN Stack Developer – Creating seamless experiences with modern technologies.<br> 
+  📚 Software Developer – Creating seamless experiences with modern technologies.<br> 
   🎯 Open to exciting collaborations – Always ready for mind-blowing projects and ideas.<br> 
   📬 Reach me at: mrabiu321@gmail.com</p>
   
