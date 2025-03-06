@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Rabiu Muhammad!</h1>
-<p align="left">Software Engineer focused on building responsive, scalable applications.</p>
+<p align="left">Software Developer focused on building responsive, scalable applications.</p>
 <h2 align="left">About Me</h2>
 
 <p align="left"> 
